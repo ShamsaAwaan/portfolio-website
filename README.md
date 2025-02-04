@@ -1,4 +1,5 @@
 Shamsa Shaheen Ali - Portfolio 🌟
+
 Welcome to my personal portfolio website! This project showcases my skills, hobbies, and career aspirations as a Front-End Web Developer.
 
 🔗 Live Preview
@@ -10,6 +11,7 @@ If hosted on GitHub Pages, you can access it here:
 This is a simple yet modern portfolio built using:
 
 HTML - For structuring the webpage
+
 CSS - For styling and layout
 
 Responsive Design - Ensuring the page looks good on all devices
@@ -41,7 +43,7 @@ Copy
 
 Edit
 
-git clone https://github.com/your-github-username/portfolio.git
+git clone https://github.com/your-github-ShamsaAwaan/portfolio.git
 
 2️⃣ Navigate to the project folder
 
@@ -65,8 +67,8 @@ Edit
 http://127.0.0.1:5500/index.html
 
 📧 Contact Me
-
 📩 Email: emanshaheen323@gmail.com
+
 📞 Phone: 0308-1361564
 
 📌 Feel free to connect with me for collaborations and opportunities! 😊
